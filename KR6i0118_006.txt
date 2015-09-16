@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:16.034642
+#+DATE: 2015-08-30 20:10:18.434163
 #+TITLE: 佛說除蓋障菩薩所問經
 #+PROPERTY: CBETA_ID T14n0489
 #+PROPERTY: ID KR6i0118
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 489
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6i0118_T_006-0717b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 《佛說除蓋障菩薩所問經》卷第六¶
+《佛說除蓋障菩薩所問經》卷第六¶
 ¶
 譯經三藏朝散大夫試鴻臚少卿¶
 光梵大師賜紫沙門臣惟淨等¶
@@ -126,7 +125,7 @@
 
 「云何是普¶
 能容受大法雲雨？譬如大地大雲含潤一切¶
-悉能容受任持，菩薩亦復如是，如來興大¶
+悉能容受住持，菩薩亦復如是，如來興大¶
 密雲注大法雨，如其所說悉能容受亦悉任¶
 持，是為菩薩普能容受大法雲雨。
 

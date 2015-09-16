@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:16.328411
+#+DATE: 2015-08-30 20:10:18.732586
 #+TITLE: 佛說除蓋障菩薩所問經
 #+PROPERTY: CBETA_ID T14n0489
 #+PROPERTY: ID KR6i0118
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 489
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6i0118_T_019-0748b> ¶¶¶¶¶
 #+PROPERTY: JUAN 19
 ¶
 ¶
-
- 《佛說除蓋障菩薩所問經》卷第十¶
+《佛說除蓋障菩薩所問經》卷第十¶
 九¶
 ¶
 西天譯經三藏朝散大夫試鴻臚¶

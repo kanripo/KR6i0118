@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:16.348290
+#+DATE: 2015-08-30 20:10:18.759401
 #+TITLE: 佛說除蓋障菩薩所問經
 #+PROPERTY: CBETA_ID T14n0489
 #+PROPERTY: ID KR6i0118
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 489
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6i0118_T_020-0750a> ¶¶¶
 #+PROPERTY: JUAN 20
 ¶
 ¶
-
- 《佛說除蓋障菩薩所問經》卷第二¶
+《佛說除蓋障菩薩所問經》卷第二¶
 十¶
 西天譯經三藏朝散大夫試鴻臚¶
 卿傳梵大師賜紫沙門臣法護等¶
@@ -167,7 +166,7 @@
 他，亦復不生染著之心，應當恭敬尊重說¶
 法。」¶
 
-爾時，帝釋天主前白佛言：「世尊！若諸地方有¶
+爾時，帝釋天主前白佛言：「世尊！若諸他方有¶
 說如是正法之處，我當率諸宮屬往詣彼所，¶
 聽受如是甚深正法，及為護助彼說法師。」
 

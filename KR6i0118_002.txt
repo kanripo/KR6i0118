@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:15.948554
+#+DATE: 2015-08-30 20:10:18.339672
 #+TITLE: 佛說除蓋障菩薩所問經
 #+PROPERTY: CBETA_ID T14n0489
 #+PROPERTY: ID KR6i0118
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 489
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6i0118_T_002-0706c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《佛說除蓋障菩薩所問經》卷第二¶
+《佛說除蓋障菩薩所問經》卷第二¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少¶
 卿傳梵大師賜紫沙門臣法護等¶
@@ -49,7 +48,7 @@
 　稽首無動勝福藏，
 　故我來此最勝山。¶
 　久遠歷於多百劫，
-　為欲圓滿悲心故，¶
+　為欲圓滿悲心欲，¶
 　稽首無垢月面尊，
 　故我來此最勝山。¶
 　多百俱胝菩薩眾，
@@ -130,7 +129,7 @@
 　善為開覺汝聖尊，
 　稽首等視如親愛。¶
 　汝觀此諸大士眾，
-　一切安住菩提道，¶
+　一切安信菩提道，¶
 　皆欲聽聞妙法門，
 　唯願世尊隨為說。」
 #+END_VERSE
