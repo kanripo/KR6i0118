@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:16.034642
+#+DATE: 2015-08-30 20:10:19.270197
 #+TITLE: 佛說除蓋障菩薩所問經
 #+PROPERTY: CBETA_ID T14n0489
 #+PROPERTY: ID KR6i0118
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 489
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@GONG
 #+PROPERTY: LASTPB <pb:KR6i0118_T_006-0717b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 《佛說除蓋障菩薩所問經》卷第六¶
+《佛說除蓋障菩薩所問經》卷第六¶
 ¶
 譯經三藏朝散大夫試鴻臚少卿¶
 光梵大師賜紫沙門臣惟淨等¶
@@ -308,7 +307,7 @@
 「云何是人不輕慢？如¶
 微小火人不敢輕。何以故？以能燒故。菩薩亦¶
 復如是，若信解行住，菩薩於大乘中，初始發¶
-心雖未具力，能世間天人、阿修羅等不敢輕¶
+心雖未具力，能令世間天人、阿修羅等不敢輕¶
 慢。何以故？是諸天、人、阿修羅等，知彼菩薩¶
 不久當坐道場證阿耨多羅三藐三菩提果，¶
 是為菩薩人不輕慢。善男子！菩薩若修如是¶
