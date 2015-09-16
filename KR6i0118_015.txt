@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:16.241674
+#+DATE: 2015-08-30 20:10:17.843309
 #+TITLE: 佛說除蓋障菩薩所問經
 #+PROPERTY: CBETA_ID T14n0489
 #+PROPERTY: ID KR6i0118
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 489
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6i0118_T_015-0741a> 
 #+PROPERTY: JUAN 15
 ¶
 ¶
-
- 《佛說除蓋障菩薩所問經》卷第十¶
+《佛說除蓋障菩薩所問經》卷第十¶
 五¶
 西天譯經三藏朝散大夫試鴻臚¶
 卿傳梵大師賜紫沙門臣法護等¶
@@ -76,7 +75,7 @@
 身相亦離。
 
 「由內諸相得斷滅已，勤行發起修¶
-習意樂，由多修習諸觀行故，能常勤修於奢¶
+習意樂，由多修習諸觀行故，非常勤修於奢¶
 摩他毘鉢舍那，所修之行中無間斷。所謂心
 <pb:KR6i0118_T_015-0741c>¶
 一境性是奢摩他，如實觀察諸法自性是毘¶

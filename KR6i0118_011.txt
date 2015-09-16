@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:16.158710
+#+DATE: 2015-08-30 20:10:17.759856
 #+TITLE: 佛說除蓋障菩薩所問經
 #+PROPERTY: CBETA_ID T14n0489
 #+PROPERTY: ID KR6i0118
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 489
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6i0118_T_011-0731b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 11
 ¶
 ¶
-
- 《佛說除蓋障菩薩所問經》卷第十¶
+《佛說除蓋障菩薩所問經》卷第十¶
 一¶
 ¶
 譯經三藏朝散大夫試鴻臚卿¶
@@ -265,7 +264,7 @@
 即善修捨行。
 
 「復次，善男子！菩薩若修十種法¶
-者，即得神通游戲。何等為十？一者、示現捨¶
+者，即得神通遊戲。何等為十？一者、示現捨¶
 壽；二者、入胎受生；三者、現童子相宮中游戲；¶
 四者、出家；五者、苦行；六者、詣菩提場；七者、成¶
 等正覺降伏魔軍；八者、現寂靜相；九者、轉妙¶
