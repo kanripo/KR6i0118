@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說除蓋障菩薩所問經
+#+DATE: 2015-08-30 20:10:16.727145
+#+PROPERTY: JUAN 0
