@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:16.199142
+#+DATE: 2015-08-30 20:10:21.010862
 #+TITLE: 佛說除蓋障菩薩所問經
 #+PROPERTY: CBETA_ID T14n0489
 #+PROPERTY: ID KR6i0118
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 489
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0118_T_013-0736b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 13
 ¶
 ¶
-
- 《佛說除蓋障菩薩所問經》卷第十¶
+《佛說除蓋障菩薩所問經》卷第十¶
 三¶
 ¶
 西天譯經三藏朝散大夫試鴻臚¶
@@ -100,7 +99,7 @@
 聚落念處？謂若菩薩入於王都國城聚落之¶
 時，當起菩薩所行之行，於諸非處皆悉捨離，¶
 非出家人所應行處，亦悉捨離。何等是非出¶
-家人所應行處？所謂王官之舍、博弈之會、酒¶
+家人所應行處？所謂王官之舍、博奕之會、酒¶
 肆歡宴、歌舞倡伎所住之處，及餘一切非出¶
 家人所應行處，當遠離之而悉不往。如是名¶
 為善行王都國城聚落念處。
