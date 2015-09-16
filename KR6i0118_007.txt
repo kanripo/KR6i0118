@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:16.053903
+#+DATE: 2015-08-30 20:10:21.681565
 #+TITLE: 佛說除蓋障菩薩所問經
 #+PROPERTY: CBETA_ID T14n0489
 #+PROPERTY: ID KR6i0118
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 489
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0118_T_007-0720a> 
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 《佛說除蓋障菩薩所問經》卷第七¶
+《佛說除蓋障菩薩所問經》卷第七¶
 西天譯經三藏朝散大夫試鴻臚¶
 卿傳梵大師賜紫沙門臣法護¶
 等奉　詔譯¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:16.328411
+#+DATE: 2015-08-30 20:10:21.933701
 #+TITLE: 佛說除蓋障菩薩所問經
 #+PROPERTY: CBETA_ID T14n0489
 #+PROPERTY: ID KR6i0118
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 489
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0118_T_019-0748b> ¶¶¶¶¶
 #+PROPERTY: JUAN 19
 ¶
 ¶
-
- 《佛說除蓋障菩薩所問經》卷第十¶
+《佛說除蓋障菩薩所問經》卷第十¶
 九¶
 ¶
 西天譯經三藏朝散大夫試鴻臚¶
@@ -67,7 +66,7 @@
 何等為十？一者、受用其根；二者、受用其莖；三¶
 者、受用其枝；四者、受用其葉；五者、受用其花；¶
 六者、受用其果；七者、見時受用其色；八者、嗅¶
-時受用其香；九者、甞時受用其味；十者、舉動¶
+時受用其香；九者、當時受用其味；十者、舉動¶
 受用其觸。
 
 「善男子！菩薩亦復如是，從初發心¶

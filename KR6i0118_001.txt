@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:15.925715
+#+DATE: 2015-08-30 20:10:21.561319
 #+TITLE: 佛說除蓋障菩薩所問經
 #+PROPERTY: CBETA_ID T14n0489
 #+PROPERTY: ID KR6i0118
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 489
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0118_T_001-0704b> 
 #+PROPERTY: JUAN 1
 ¶
-No.489¶
-
- 《佛說除蓋障菩薩所問經》卷第一¶
+No. 489¶
+《佛說除蓋障菩薩所問經》卷第一¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少¶
 卿傳梵大師賜紫沙門臣法護等¶
@@ -262,7 +261,7 @@ No.489¶
 「善哉！於彼佛所，如其行相，聞佛所言，順佛教¶
 勅。」各各頭面禮佛足已，從佛會出，俱時往詣¶
 娑婆世界。於世尊釋迦牟尼佛所，作供養事，¶
-或有化現諸寶樹者，枝幹𦟛圓色相榮茂，華¶
+或有化現諸寶樹者，枝幹[月*庸]圓色相榮茂，華¶
 果具足。或現瑠璃寶樹，或現頗胝迦樹，或現¶
 劫樹，或真金樹，或眾華樹，或眾果樹，或現妙¶
 寶衣雲，或莊嚴雲，或塗香雲，或寶鬘雲，或妙¶
