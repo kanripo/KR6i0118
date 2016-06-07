@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:20.232278
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:37
 #+TITLE: 佛說除蓋障菩薩所問經
 #+PROPERTY: CBETA_ID T14n0489
 #+PROPERTY: ID KR6i0118
