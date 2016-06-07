@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:16.017245
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:37
 #+TITLE: 佛說除蓋障菩薩所問經
 #+PROPERTY: CBETA_ID T14n0489
 #+PROPERTY: ID KR6i0118
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 489
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0118_T_005-0715a> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《佛說除蓋障菩薩所問經》卷第五¶
+《佛說除蓋障菩薩所問經》卷第五¶
 ¶
 譯經三藏朝散大夫試鴻臚少卿¶
 光梵大師賜紫沙門臣惟淨等¶
@@ -29,7 +28,7 @@
 受，如奉師尊不相違戾。由得親近諸外道故，¶
 乃呵毀言：『諸仁者！汝此所修非出離道，亦非¶
 離欲，又非寂滅。』由是漸能使彼調伏，而令安¶
-住如來法中。又復於彼具五神通諸外道所¶
+住如來法中。文復於彼具五神通諸外道所¶
 學修梵行，隨其所修而復勤行，令得彼法隨¶
 能成辦，外道所修禪定之法，即能勝過彼諸¶
 外道，勤勇進修難行之行，於外道中智者共¶
